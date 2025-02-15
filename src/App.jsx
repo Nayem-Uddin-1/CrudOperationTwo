@@ -1,5 +1,8 @@
  
 import './App.css'
+import Home from './pages/Home'
+ 
+
 
 function App() {
 
@@ -7,9 +10,9 @@ function App() {
   return (
     <>
     
-
-    <h1 className='text-red-500 '>Nayem Uddin</h1>
-    
+    <Home/>
+ 
+      
 
     </>
   )

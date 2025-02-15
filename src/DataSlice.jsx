@@ -1,20 +1,20 @@
-import { createSlice } from "@reduxjs/toolkit";
-import { dataList } from "./component/DataList";
+// import { createSlice } from "@reduxjs/toolkit";
+// import { dataList } from "./component/DataList";
 
  
 
  
 
-const userSlice=createSlice({
+// const userSlice=createSlice({
 
-  name:"users",
-  initialState: dataList,
+//   name:"users",
+//   initialState: dataList,
   
-  reducers:{
+//   reducers:{
 
-  }
+//   }
 
-})
+// })
 
 
-export default userSlice.reducer;
+// export default userSlice.reducer;
